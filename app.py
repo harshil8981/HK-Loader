@@ -52,7 +52,7 @@ def hello_world():
 
 <body>
     <div class="container">
-        <a href="https://github.com/SilentDemonSD/pyTele-Loader" class="card">
+        <a href="https://github.com/harshil8981/pyTele-Loader" class="card">
             <p>
                 ▀█▀▒██▀░█▒░▒██▀░▒░░█▒░░▄▀▄▒▄▀▄░█▀▄▒██▀▒█▀▄<br>
                 ▒█▒░█▄▄▒█▄▄░█▄▄░▀▀▒█▄▄░▀▄▀░█▀█▒█▄▀░█▄▄░█▀▄<br>
