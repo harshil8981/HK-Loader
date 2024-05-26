@@ -1,1 +1,1 @@
-worker: chmod +x hk_deploy.sh && ./hk_deploy.sh
+web: gunicorn -b :$PORT app:app & chmod +x pyteledeploy.sh && ./pyteledeploy.sh & python3 alive.py
